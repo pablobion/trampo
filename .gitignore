@@ -1,0 +1,34 @@
+# Ignore Node.js build artifacts
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Ignore Next.js build directory
+.next
+
+# Ignore Visual Studio Code settings
+.vscode
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment variables file (assumindo que você tenha um arquivo .env)
+.env
+
+# Ignore build output
+/out
+
+# Ignore cache directories
+/.cache
+
+# Ignore log files
+*.log
+
+# Ignore dependency directories (exemplo para Yarn)
+/yarn-error.log
+.pnp
+.pnp.js
+yarn.lock
+
+# Ignore local development server files
+/.yarn/cache
