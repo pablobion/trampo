@@ -8,7 +8,7 @@ const nextConfig = {
     defaultLocale: 'pt-BR',
 
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/lawyerlamp' : '',
+  //basePath: process.env.NODE_ENV === 'production' ? '/lawyerlamp' : '',
 
   // async redirects() {
   //   return [
